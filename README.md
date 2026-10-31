@@ -77,5 +77,5 @@ Experience the production web build live in your browser:
 **Syed Musavir Ali Shah**  
 *Flutter & Mobile Application Engineer*
 - **Email:** musavir.ali717@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/musavir-ali-shah/
+- **LinkedIn:** https://www.linkedin.com/in/syed-musavir-ali-shah-156b2422b/
 - **Location:** Karachi, Pakistan
